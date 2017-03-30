@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Nitro - Wordpress eCommerce Themes</title>
+	<link rel="icon" href="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/img/logo.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Questrial' rel='stylesheet' type='text/css'>
+	<link href="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/css/magnific-popup.css" rel="stylesheet">
+	<link href="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/css/style.css" rel="stylesheet">
+	<script>
+		window.location.replace("http://nitro.woorockets.com");
+	</script>
+	<!-- Start Visual Website Optimizer Asynchronous Code -->
+	<script type='text/javascript'>
+		var _vwo_code=(function(){
+		var account_id=177965,
+		settings_tolerance=2000,
+		library_tolerance=2500,
+		use_existing_jquery=false,
+		// DO NOT EDIT BELOW THIS LINE
+		f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+	</script>
+</head>
+
+<body>
+	<div class="wr-container">
+		<div class="bot-bar push is-main">
+			<div class="list-wrap">
+				<ul class="theme-select row">
+					<li class="selected main-demo">
+						<div class="wrap">
+							<span class="niche-title">Main demo</span>
+							<a data-title="Main Demo" href="g40.png#main" data-link="http://nitro.woorockets.com/">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/main-demo.jpg" alt="Main demo" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Boulanger - Restaurant Store</span>
+							<a data-title="Boulanger - Restaurant Store" href="g40.png#niche-01" data-link="http://nitro.woorockets.com/niche-01">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-01.jpg" alt="Boulanger - Restaurant Store" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">December - Fashion Shop</span>
+							<a data-title="December - Fashion Shop" href="g40.png#niche-02" data-link="http://nitro.woorockets.com/niche-02">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-02.jpg" alt="December - Fashion Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Hiway - Technology Shop</span>
+							<a data-title="Hiway - Technology Shop" href="g40.png#niche-03" data-link="http://nitro.woorockets.com/niche-03">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-03.jpg" alt="Hiway - Technology Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Pillow - Fashion Shop</span>
+							<a data-title="Pillow - Fashion Shop" href="g40.png#niche-04" data-link="http://nitro.woorockets.com/niche-04">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-04.jpg" alt="Pillow - Fashion Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Book Store - Online Books store</span>
+							<a data-title="Book Store - Online Books store" href="g40.png#niche-05" data-link="http://nitro.woorockets.com/niche-05">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-05.jpg" alt="Book Store - Online Books store" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Drone Store - Technology Shop</span>
+							<a data-title="Drone Store - Technology Shop" href="g40.png#niche-06" data-link="http://nitro.woorockets.com/niche-06">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-06.jpg" alt="Drone Store - Technology Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Famous - Furniture Store</span>
+							<a data-title="Famous - Furniture Store" href="g40.png#niche-07" data-link="http://nitro.woorockets.com/niche-07">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-07.jpg" alt="Famous - Furniture Store" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">R2VF - Shoes Shop</span>
+							<a data-title="R2VF - Shoes Shop" href="g40.png#niche-08" data-link="http://nitro.woorockets.com/niche-08">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-08.jpg" alt="R2VF - Shoes Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Fabulous - Fashion Shop</span>
+							<a data-title="Fabulous - Fashion Shop" href="g40.png#niche-09" data-link="http://nitro.woorockets.com/niche-09">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-09.jpg" alt="Fabulous - Fashion Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Interno - Furniture Store</span>
+							<a data-title="Interno - Furniture Store" href="g40.png#niche-10" data-link="http://nitro.woorockets.com/niche-10">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-10.jpg" alt="Interno - Furniture Store" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Haute Couture - Fashion Shop</span>
+							<a data-title="Haute Couture - Fashion Shop" href="g40.png#niche-11" data-link="http://nitro.woorockets.com/niche-11">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-11.jpg" alt="Haute Couture - Fashion Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Nivellia - Jewelry Shop</span>
+							<a data-title="Nivellia - Jewelry Shop" href="g40.png#niche-12" data-link="http://nitro.woorockets.com/niche-12">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-12.jpg" alt="Nivellia - Jewelry Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Iguana - Fashion Shop</span>
+							<a data-title="Iguana - Fashion Shop" href="g40.png#niche-13" data-link="http://nitro.woorockets.com/niche-13">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-13.jpg" alt="Iguana - Fashion Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">xGear - Sports Shop</span>
+							<a data-title="xGear - Sports Shop" href="g40.png#niche-14" data-link="http://nitro.woorockets.com/niche-14">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-14.jpg" alt="xGear - Sports Shop" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Watches Landing Page</span>
+							<a data-title="Watches Landing Page" href="g40.png#niche-15" data-link="http://nitro.woorockets.com/niche-15">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-15.jpg" alt="Watches Landing Page" />
+							</a>
+						</div>
+					</li>
+					<li>
+						<div class="wrap">
+							<span class="niche-title">Mobile App Landing Page</span>
+							<a data-title="Mobile App Landing Page" href="g40.png#niche-18" data-link="http://nitro.woorockets.com/niche-18">
+								<img src="http://www.woorockets.com/files/sampledata/screenshot/niche-18.jpg" alt="Mobile App Landing Page" />
+							</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!-- .bot-bar -->
+		<div id="demo" class="push">
+			<iframe id="demo-wrap" src="http://nitro.woorockets.com" frameborder="0" scroll="true"></iframe>
+			<div class="wr-switcher">
+				<a class="logo" href="http://nitro.woorockets.com" target="_blank"><img src="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/img/logo.png" alt="Nitro - Wordpress eCommerce Theme" /></a>
+				<div id="pushMenu" class="select-theme">
+					<h3 class="theme-name">Main Demo</h3><span class="arrow"></span>
+				</div>
+				<!-- .select-theme -->
+				<!-- Begin comment
+				<div class="device">
+					<ul>
+						<li>
+							<a class="mobile-portrait" href="javascript:void(0);">
+								<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 537.871 537.871" xml:space="preserve">
+									<g>
+										<path d="M399.827,0H138.044c-11.857,0-21.497,9.562-21.497,21.497v494.878c0,11.857,9.716,21.496,21.497,21.496h261.783
+											c11.857,0,21.496-9.562,21.496-21.496V21.573C421.323,9.716,411.685,0,399.827,0z M268.936,17.978
+											c8.95,0,16.141,7.191,16.141,16.142s-7.191,16.142-16.141,16.142c-8.951,0-16.142-7.191-16.142-16.142
+											S259.985,17.978,268.936,17.978z M269.777,519.971c-12.469,0-22.491-10.021-22.491-22.49c0-12.471,10.021-22.492,22.491-22.492
+											c12.47,0,22.491,10.021,22.491,22.492C292.269,509.949,282.171,519.971,269.777,519.971z M394.472,439.34
+											c0,5.967-4.818,10.787-10.785,10.787h-229.5c-5.967,0-10.787-4.82-10.787-10.787V78.948c0-5.967,4.82-10.787,10.787-10.787h229.5
+											c5.967,0,10.785,4.819,10.785,10.787V439.34z"/>
+									</g>
+								</svg>
+
+							</a>
+						</li>
+						<li>
+							<a class="tablet-portrait" href="javascript:void(0);">
+								<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px"
+									 viewBox="0 0 33.994 33.994" xml:space="preserve">
+									<g>
+										<path d="M27.125,0H6.867C5.59,0,4.562,1.033,4.562,2.309v29.377c0,1.272,1.028,2.308,2.305,2.308h20.258
+											c1.273,0,2.306-1.035,2.306-2.308V2.309C29.433,1.033,28.399,0,27.125,0z M16.997,33.129c-0.758,0-1.371-0.613-1.371-1.37
+											c0-0.758,0.613-1.372,1.371-1.372c0.756,0,1.371,0.614,1.371,1.372C18.368,32.516,17.753,33.129,16.997,33.129z M27.098,29.186
+											H6.896V2.774h20.202V29.186z"/>
+									</g>
+								</svg>
+							</a>
+						</li>
+						<li>
+							<a class="desktop active" href="javascript:void(0);">
+								<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+									 width="20px" height="20px" viewBox="0 0 548.172 548.172" xml:space="preserve">
+									<g>
+										<path d="M534.75,49.965c-8.945-8.945-19.694-13.422-32.261-13.422H45.681c-12.562,0-23.313,4.477-32.264,13.422
+											C4.471,58.913,0,69.663,0,82.226v310.633c0,12.566,4.471,23.315,13.417,32.265c8.951,8.945,19.702,13.414,32.264,13.414h155.318
+											c0,7.231-1.524,14.661-4.57,22.269c-3.044,7.614-6.09,14.273-9.136,19.981c-3.042,5.715-4.565,9.897-4.565,12.56
+											c0,4.948,1.807,9.24,5.424,12.847c3.615,3.621,7.898,5.435,12.847,5.435h146.179c4.949,0,9.233-1.813,12.848-5.435
+											c3.62-3.606,5.427-7.898,5.427-12.847c0-2.468-1.526-6.611-4.571-12.415c-3.046-5.801-6.092-12.566-9.134-20.267
+											c-3.046-7.71-4.569-15.085-4.569-22.128h155.318c12.56,0,23.309-4.469,32.254-13.414c8.949-8.949,13.422-19.698,13.422-32.265
+											V82.226C548.176,69.663,543.699,58.913,534.75,49.965z M511.627,319.768c0,2.475-0.903,4.613-2.711,6.424
+											c-1.81,1.804-3.952,2.707-6.427,2.707H45.681c-2.473,0-4.615-0.903-6.423-2.707c-1.807-1.817-2.712-3.949-2.712-6.424V82.226
+											c0-2.475,0.902-4.615,2.712-6.423c1.809-1.805,3.951-2.712,6.423-2.712h456.815c2.471,0,4.617,0.904,6.42,2.712
+											c1.808,1.809,2.711,3.949,2.711,6.423V319.768L511.627,319.768z"/>
+									</g>
+								</svg>
+
+							</a>
+						</li>
+						<li>
+							<a class="tablet-landscape" href="javascript:void(0);">
+								<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px"
+									 viewBox="0 0 33.994 33.994" xml:space="preserve">
+									<g>
+										<path d="M27.125,0H6.867C5.59,0,4.562,1.033,4.562,2.309v29.377c0,1.272,1.028,2.308,2.305,2.308h20.258
+											c1.273,0,2.306-1.035,2.306-2.308V2.309C29.433,1.033,28.399,0,27.125,0z M16.997,33.129c-0.758,0-1.371-0.613-1.371-1.37
+											c0-0.758,0.613-1.372,1.371-1.372c0.756,0,1.371,0.614,1.371,1.372C18.368,32.516,17.753,33.129,16.997,33.129z M27.098,29.186
+											H6.896V2.774h20.202V29.186z"/>
+									</g>
+								</svg>
+							</a>
+						</li>
+						<li>
+							<a class="mobile-landscape" href="javascript:void(0);">
+								<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 537.871 537.871" xml:space="preserve">
+									<g>
+										<path d="M399.827,0H138.044c-11.857,0-21.497,9.562-21.497,21.497v494.878c0,11.857,9.716,21.496,21.497,21.496h261.783
+											c11.857,0,21.496-9.562,21.496-21.496V21.573C421.323,9.716,411.685,0,399.827,0z M268.936,17.978
+											c8.95,0,16.141,7.191,16.141,16.142s-7.191,16.142-16.141,16.142c-8.951,0-16.142-7.191-16.142-16.142
+											S259.985,17.978,268.936,17.978z M269.777,519.971c-12.469,0-22.491-10.021-22.491-22.49c0-12.471,10.021-22.492,22.491-22.492
+											c12.47,0,22.491,10.021,22.491,22.492C292.269,509.949,282.171,519.971,269.777,519.971z M394.472,439.34
+											c0,5.967-4.818,10.787-10.785,10.787h-229.5c-5.967,0-10.787-4.82-10.787-10.787V78.948c0-5.967,4.82-10.787,10.787-10.787h229.5
+											c5.967,0,10.785,4.819,10.785,10.787V439.34z"/>
+									</g>
+								</svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="docs">
+					<h3>
+						<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+							 width="18px" height="18px" viewBox="0 0 380.832 380.832" xml:space="preserve">
+							<g>
+								<g>
+									<path d="M320.159,30.864h-47.243V12.5c0-6.904-5.597-12.5-12.5-12.5s-12.5,5.596-12.5,12.5v18.364h-45V12.5
+										c0-6.904-5.597-12.5-12.5-12.5c-6.903,0-12.5,5.596-12.5,12.5v18.364h-45V12.5c0-6.904-5.597-12.5-12.5-12.5
+										s-12.5,5.596-12.5,12.5v18.364H60.673c-6.903,0-12.5,5.597-12.5,12.5v324.968c0,6.903,5.597,12.5,12.5,12.5h259.486
+										c6.903,0,12.5-5.597,12.5-12.5V43.364C332.659,36.461,327.062,30.864,320.159,30.864z M307.659,355.832H73.173V55.864h34.743
+										v14.59c0,6.904,5.597,12.5,12.5,12.5s12.5-5.596,12.5-12.5v-14.59h45v14.59c0,6.904,5.597,12.5,12.5,12.5
+										c6.903,0,12.5-5.596,12.5-12.5v-14.59h45v14.59c0,6.904,5.597,12.5,12.5,12.5s12.5-5.596,12.5-12.5v-14.59h34.743V355.832z"/>
+									<path d="M264.416,139.758h-148c-6.903,0-12.5,5.597-12.5,12.5c0,6.903,5.597,12.5,12.5,12.5h148c6.903,0,12.5-5.597,12.5-12.5
+										C276.916,145.355,271.319,139.758,264.416,139.758z"/>
+									<path d="M264.416,209.758h-148c-6.903,0-12.5,5.598-12.5,12.5c0,6.903,5.597,12.5,12.5,12.5h148c6.903,0,12.5-5.597,12.5-12.5
+										C276.916,215.355,271.319,209.758,264.416,209.758z"/>
+									<path d="M264.416,279.758h-148c-6.903,0-12.5,5.598-12.5,12.5c0,6.903,5.597,12.5,12.5,12.5h148c6.903,0,12.5-5.597,12.5-12.5
+										C276.916,285.355,271.319,279.758,264.416,279.758z"/>
+								</g>
+							</g>
+						</svg>
+						<a href="http://nitro.woorockets.com/documentation/" target="_blank">Documentation</a>
+					</h3>
+				</div>
+				End comment -->
+				<div class="purchase">
+					<a href="http://nitro.woorockets.com/nitro-beta-testing-campaign-information/" target="_blank">Buy Now</a>
+					<a href="g40.png#">
+						<span id="close"></span>
+					</a>
+				</div>
+				<!-- .purchase -->
+			</div>
+			<!-- .wr-switcher -->
+
+			<!-- comment
+			<div id="form-redirect" class="form-redirect white-popup-block mfp-hide thankyou-popup">
+				<h2>Thank you for joining Nitro beta program</h2>
+				<p>To download Nitro, join our Facebook group "Nitro theme beta users"</p>
+				<p>As a gift, we'd love to give you all HTML files of 15+ niche demos</p>
+				<a class="tu btn btn__sm btn__red br__40" href="https://www.facebook.com/groups/nitrowp" target="_blank">Ok, I will give you a hand</a>
+				<a class="switch-form" href="#feedback-form" onclick="return window.App.showFeedbackForm(event)">No, I don't want to help building Nitro</a>
+			</div>
+			<div id="feedback-form" class="white-popup-block mfp-hide thankyou-popup">
+				<iframe src="http://goo.gl/forms/5af1kfXRN54KmPD13"></iframe>
+			</div>
+			-->
+			<a href="g40.png#"><span id="open"></span></a>
+		</div>
+		<!-- #demo -->
+	</div>
+	<!-- .wr-container -->
+	<script src="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/js/jquery-1.10.1.min.js"></script>
+	<script src="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="http://demo.woorockets.com/themes/ninja/html/images/gradient/assets/js/script.js"></script>
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-ML758Q"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-ML758Q');</script>
+	<!-- End Google Tag Manager -->
+</body>
+
+</html>
